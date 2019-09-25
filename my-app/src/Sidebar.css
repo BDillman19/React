@@ -1,0 +1,14 @@
+.sideb {
+  padding-top: 7rem;
+  width: 20% !important;
+  max-width: 200px;
+  min-width: 150px; 
+}
+
+.sideb-element {
+  font-size: 1.5rem !important;
+}
+
+.sideb-text {
+  font-size: 1.5rem;
+}

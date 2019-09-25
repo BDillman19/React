@@ -1,0 +1,20 @@
+.headerBackground {
+  background-color: #1b1c1d;
+  height: 7rem;
+  padding-top: 1rem;
+  border-radius: 1rem;
+}
+
+h1 {
+  padding-top: 1rem;
+  text-align: center;
+  font-size: 3rem;
+  color: lightgray;
+  font-family: cursive;
+}
+
+.headerImage {
+  float: right;
+  height: 7rem;
+  width: 7rem;
+}
